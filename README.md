@@ -1,6 +1,9 @@
 # Convolutional Neural Networks (CNN) - CIFAR-10 Classifier
 
 Welcome to the Convolutional Neural Networks (CNN) CIFAR-10 Classifier project. This README file will guide you through the essentials of this project, its purpose, and the code provided.
+
+![Gelfandar CNN](https://github.com/AvivGelfand/Image-Processing/assets/63909805/c1313b51-07c1-4659-887d-6ffbb345fb7b)
+
 <img width="670" alt="Screenshot 2023-10-14 185103" src="https://github.com/AvivGelfand/Image-Processing/assets/63909805/69696ed4-a7e1-4d76-8049-1ec2a5d19435">
 
 ## The Essence of CNNs
@@ -61,7 +64,7 @@ The code also includes a section for visualizing predictions made by the CNN mod
 
 ## Conclusion
 
-In this project, you have explored the use of Convolutional Neural Networks (CNNs) for image classification on the CIFAR-10 dataset. The CNN model demonstrated superior performance compared to the regular Neural Network, underlining the importance of CNNs in image-related tasks.
+In this project, you have explored the use of Convolutional Neural Networks (CNNs) for image classification on the CIFAR-10 dataset. The CNN model demonstrated superior performance to the regular Neural Network, underlining the importance of CNNs in image-related tasks.
 
 Feel free to explore and experiment with the code to gain a deeper understanding of CNNs and their applications in image classification.
 
