@@ -1,6 +1,7 @@
 # Convolutional Neural Networks (CNN) - CIFAR-10 Classifier
 
 Welcome to the Convolutional Neural Networks (CNN) CIFAR-10 Classifier project. This README file will guide you through the essentials of this project, its purpose, and the code provided.
+<img width="670" alt="Screenshot 2023-10-14 185103" src="https://github.com/AvivGelfand/Image-Processing/assets/63909805/69696ed4-a7e1-4d76-8049-1ec2a5d19435">
 
 ## The Essence of CNNs
 
